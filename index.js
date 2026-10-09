@@ -7,9 +7,9 @@ const {
 
 // ==== CONFIGURATION ====
 // Remplis ces 3 valeurs (ou utilise des variables d'environnement, voir README)
-const TOKEN = process.env.DISCORD_TOKEN || 'MTU1ODE0MjEzMDMyMzQ1NjExMA.GORJ8i.OCOlX-PIWVnDGE16lcSXU01i91H6pQUEzu3OSE';
-const GUILD_ID = process.env.GUILD_ID || '1550530623670718548';
-const VOICE_CHANNEL_ID = process.env.VOICE_CHANNEL_ID || '1550530622886256730';
+const TOKEN = process.env.DISCORD_TOKEN || 'TON_TOKEN_ICI';
+const GUILD_ID = process.env.GUILD_ID || '1548293850840170619';
+const VOICE_CHANNEL_ID = process.env.VOICE_CHANNEL_ID || '1548293853767798801';
 // =======================
 
 const client = new Client({
